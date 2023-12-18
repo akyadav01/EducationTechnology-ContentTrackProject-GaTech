@@ -1,0 +1,2 @@
+This is a Content Track Research Project for Georgia Tech. It involves study of research work done in curriculum design for effective online course and theoretical pedagogies to support E-learning platform for delivery of contents.
+Project has two intermediate milestones 1 and 2. and then we proceed to final project report. The complete course has been published to Canvas platform. Link is provided into project paper.
